@@ -40,7 +40,7 @@ body{
     font-size: 30px;
   }
 
-.logoo {    
+.logo {    
     grid-column: 1;
     grid-row: 1;
 }
@@ -85,7 +85,8 @@ body{
     text-align: center;
 	color: black;
 	font-size: 150px;
-    font-family: 'Prompt', sans-serif;  
+    font-family: 'Prompt', sans-serif; 
+    margin: 0; 
 }
 .text4 {
     grid-column: 3 /  6;
@@ -139,7 +140,7 @@ body{
     grid-row: 7;
 }
 
-.tomas{
+.logoo{
     padding: 0px;
     height: 190px;
 }
@@ -177,4 +178,9 @@ p{
     height: 190px;
     border-radius: 5%;
 }
+.zdroj{
+    color: black;  
+    font-size: 15px;
+}
+     
 
